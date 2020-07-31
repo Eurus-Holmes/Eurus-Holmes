@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working at [Apple Inc.](https://www.apple.com/).
+- 🔭 I’m currently working at [Apple Inc.](https://www.apple.com/)
 - 🌱 I’m currently learning ANYTHING related to CS and MATH.
 - 🤔 I’m looking to collaborate on Multimodal Machine Learning.
 - 💬 You can ask me ANYTHING as long as I know.
