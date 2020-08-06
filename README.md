@@ -30,3 +30,9 @@ Here are some ideas to get you started:
 
 
 ![Feiyang's github stats](https://github-readme-stats.vercel.app/api?username=Eurus-Holmes&show_icons=true&theme=tokyonight)
+
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/Eurus-Holmes/count.svg" />
+</p>
