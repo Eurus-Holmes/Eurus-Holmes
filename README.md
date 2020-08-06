@@ -33,6 +33,6 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-  Visitor count<br>
+  Visitors (From 08/06/2020):<br>
   <img src="https://profile-counter.glitch.me/Eurus-Holmes/count.svg" />
 </p>
