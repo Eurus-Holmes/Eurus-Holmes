@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 🤔 I’m looking to collaborate on Multimodal Machine Learning.
 - 💬 You can ask me ANYTHING as long as I know.
 - 📫 How to reach me: [Email](mailto:fychen@ucla.edu) Me!
-- 😄 Fun fact: The [Three-Body](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) is my favorite book and [Sherlock](https://en.wikipedia.org/wiki/Sherlock_(TV_series)) is my favorite TV series. That's where my GitHub avatar and username come from.
+- 😄 Fun fact: The [Three-Body](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) is my favorite novel and [Sherlock](https://en.wikipedia.org/wiki/Sherlock_(TV_series)) is my favorite TV series. That's where my GitHub avatar and username come from.
 
 
 <!--
