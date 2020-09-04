@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 -->
 
 
-- 🔭 I’m currently working at [Apple Inc.](https://www.apple.com/)
-- 🌱 I’m currently learning ANYTHING related to CS and MATH.
-- 🤔 I’m looking to collaborate on Multimodal Machine Learning.
+- 🌱 I’m currently working at [Apple Inc.](https://www.apple.com/)
+- 🤔 Looking to collaborate on Multimodal Machine Learning.
+- 🔭 I'm learning EVERYTHING about this universe.
 - 💬 You can ask me ANYTHING as long as I know.
-- 📫 How to reach me: [Email](mailto:fychen@ucla.edu) Me!
+- 📫 Feel free to [Email](mailto:fychen@ucla.edu) Me!
 - 😄 Fun fact: The [Three-Body](https://en.wikipedia.org/wiki/The_Three-Body_Problem_(novel)) is my favorite novel and [Sherlock](https://en.wikipedia.org/wiki/Sherlock_(TV_series)) is my favorite TV series. That's where my GitHub avatar and username come from.
 
 
