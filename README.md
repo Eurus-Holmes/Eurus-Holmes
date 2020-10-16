@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- 🌱 I’m currently working at [Apple Inc.](https://www.apple.com/)
 -->
 
 
-- 🌱 I’m currently working at [Apple Inc.](https://www.apple.com/)
 - 🤔 Looking to collaborate on Multimodal Machine Learning.
 - 🔭 I'm learning EVERYTHING about this universe.
 - 💬 You can ask me ANYTHING as long as I know.
