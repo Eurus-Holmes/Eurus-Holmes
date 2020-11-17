@@ -39,6 +39,10 @@ Here are some ideas to get you started:
 ![Feiyang's github stats](https://github-readme-stats.vercel.app/api?username=Eurus-Holmes&show_icons=true&theme=tokyonight&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&include_all_commits=true)
 -->
 
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Eurus-Holmes&layout=compact&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+-->
+
 
 <p align="center"> 
   Visitors (From 08/06/2020):<br>
