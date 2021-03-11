@@ -18,10 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - 🌱 I’m currently working at [Apple Inc.](https://www.apple.com/)
+- 🤔 Looking to collaborate on Multimodal Machine Learning.
 -->
 
 
-- 🤔 Looking to collaborate on Multimodal Machine Learning.
+- 👯 Always open to collaborations on Multimodal and Interdisciplinary research topics. 
 - 🔭 I'm learning EVERYTHING about this universe.
 - 💬 You can ask me ANYTHING as long as I know.
 - 📫 Feel free to [Email](mailto:fychen@ucla.edu) Me!
