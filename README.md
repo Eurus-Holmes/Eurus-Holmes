@@ -33,10 +33,14 @@ Here are some ideas to get you started:
 ![Feiyang's github stats](https://github-readme-stats.vercel.app/api?username=Eurus-Holmes&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 -->
 
-
+<!--
 <a href="https://github.com/ryo-ma/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=Eurus-Holmes&column=7&theme=gruvbox&no-frame=true&title=Stars,Commit,Followers,PullRequest,Issues"/>
 </a>
+-->
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eurus-Holmes&column=7&theme=dracula&rank=SECRET,SSS,SS,S)](https://github.com/Eurus-Holmes/Eurus-Holmes/)
 
 
 [![Feiyang's github stats](https://github-readme-stats.vercel.app/api?username=Eurus-Holmes&show_icons=true&theme=tokyonight&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
