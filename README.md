@@ -56,6 +56,12 @@ Here are some ideas to get you started:
 -->
 
 
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Eurus-Holmes/Eurus-Holmes/output/github-contribution-grid-snake.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
+
+
 <p align="center"> 
   Visitors (From 08/06/2020):<br>
   <img src="https://profile-counter.glitch.me/Eurus-Holmes/count.svg" />
