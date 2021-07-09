@@ -3,9 +3,6 @@
 
 ![image](https://github.com/Eurus-Holmes/Eurus-Holmes/blob/master/dino.gif)
 
-![github contribution grid snake animation](https://raw.githubusercontent.com/Eurus-Holmes/Eurus-Holmes/output/github-contribution-grid-snake.svg)
-
-
 
 <!--
 **Eurus-Holmes/Eurus-Holmes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -65,3 +62,8 @@ Here are some ideas to get you started:
   Visitors (From 08/06/2020):<br>
   <img src="https://profile-counter.glitch.me/Eurus-Holmes/count.svg" />
 </p>
+
+
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/Eurus-Holmes/Eurus-Holmes/output/github-contribution-grid-snake.svg)
+
