@@ -40,22 +40,28 @@ Here are some ideas to get you started:
 -->
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Eurus-Holmes&theme=dracula&rank=SECRET,SSS,SS,S&column=7)](https://github.com/Eurus-Holmes/Eurus-Holmes/)
+<!-- <div align=center>
+  <img src="https://github-profile-trophy.vercel.app/?username=Eurus-Holmes&theme=dracula&rank=SECRET,SSS,SS,S&column=8">
+</div> -->
+
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Eurus-Holmes&theme=dracula&rank=SECRET,SSS,SS,S&column=8)](https://github.com/Eurus-Holmes/Eurus-Holmes/)
 
 <!--
 [![Feiyang's github stats](https://github-readme-stats.vercel.app/api?username=Eurus-Holmes&show_icons=true&theme=tokyonight&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 -->
 
 
-[![Feiyang's github stats](https://github-readme-stats-eurus-holmes.vercel.app/api?username=Eurus-Holmes&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<img src="https://github.com/Eurus-Holmes/Eurus-Holmes/blob/master/codersrank.png" width="495"/>
-
-
-<!--
+[![Feiyang's github stats](https://github-readme-stats-eurus-holmes.vercel.app/api?username=Eurus-Holmes&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats) 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Eurus-Holmes&theme=buefy-dark)](https://git.io/streak-stats)
--->
+
+
+<div align=center>
+  <img src="https://github.com/Eurus-Holmes/Eurus-Holmes/blob/master/codersrank.png" width="500"/>
+</div>
+
+
+
 
 
 
