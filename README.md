@@ -57,7 +57,8 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Eurus-Holmes&label=Profile+Views&color=9400D3&style=flat&base=500000" alt="Profile Views" />
+Visitors (From 08/06/2020):<br>
+    <img src="https://komarev.com/ghpvc/?username=Eurus-Holmes&label=Profile+Views&color=9400D3&style=flat&base=500000" alt="Profile Views" />
 </p>
 
 
