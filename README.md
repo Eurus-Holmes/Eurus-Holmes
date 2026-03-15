@@ -57,8 +57,7 @@ Here are some ideas to get you started:
 
 
 <p align="center"> 
-  Visitors (From 08/06/2020):<br>
-  <img src="https://profile-counter.glitch.me/Eurus-Holmes/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=Eurus-Holmes&label=Profile+Views&color=e96443&style=flat" alt="Profile Views" />
 </p>
 
 
