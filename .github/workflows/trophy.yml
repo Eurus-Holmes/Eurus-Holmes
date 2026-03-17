@@ -1,0 +1,29 @@
+name: Generate Trophy
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'
+  workflow_dispatch:
+
+jobs:
+  trophy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate trophy
+        uses: Eurus-Holmes/github-profile-trophy@master
+        with:
+          username: Eurus-Holmes
+          output_path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          theme: dracula
+          rank: "SECRET,SSS,SS,S"
+
+      - name: Commit trophy
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add trophy.svg
+          git diff --staged --quiet || git commit -m "Update trophy SVG"
+          git push

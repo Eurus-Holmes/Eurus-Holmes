@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 </div> -->
 
 
-[![trophy](https://github-profile-trophy-orcin-eta.vercel.app/?username=Eurus-Holmes&theme=dracula&rank=SECRET,SSS,SS,S&column=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](./trophy.svg)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
 [![Feiyang's github stats](https://github-readme-stats.vercel.app/api?username=Eurus-Holmes&show_icons=true&theme=tokyonight&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
